@@ -98,30 +98,28 @@ _start:
 
       - ## Aqui Está uma lista de comandos uteis para usar no Windows (CMD):
 
-  ```
-        - ipconfig /all
-  ```
-  ```
-        - chkdsk
-  ```
-  ```
-        - sfc /scannow
-  ```
-  ```
-        - tasklist
-  ```
-  ```
-        - shutdown /r /f /t 0
-  ```
-  ```
-        - netstat -an
-  ```
-  ```
-        - ping [endereço IP ou domínio]
-  ```
-  ```
-        - dir
-  ```
+
+        
+
+  - **` ipconfig /all`**
+
+  - **` chkdsk`**
+ 
+  - **`sfc /scannow`**
+       
+  - **` tasklist`**
+     
+  - **`shutdown /r /f /t 0 `**
+
+  - **` netstat -an`**
+        
+  - **` ping [endereço IP ou domínio]`**  
+       
+  
+  - **` dir`**  
+  
+
+     
   
 
   # CURIOSIDADES
