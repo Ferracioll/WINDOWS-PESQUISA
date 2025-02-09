@@ -96,7 +96,10 @@ A arquitetura do Windows é basicamente a engenharia por tras desse sistema oper
     
   - **` dir`** : Lista arquivos e pastas no diretório atual.
 
+<br>
+
 ***
+
 <br>
 
 # CURIOSIDADES
