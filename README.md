@@ -62,11 +62,15 @@ O **Windows 7** (2009) foi um sistema que maximizou em todos os sentidos a esté
 O **Windows 10** (2015) foi um modelo que otimizou a segurança e velocidade do software, mas a sua mudança no design que chamou a atenção, abandonando o famoso **Frutiger Aero** e escolhendo o minimalismo.
 
 ***
+![Texto Alternativo](https://media.licdn.com/dms/image/v2/D4D12AQHg4enzmwJatw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1709128178303?e=2147483647&v=beta&t=5NgPK7BxrvH76yiKyIDeF5UbgA8so5t9LMcLarThrgY)
+***
 
 # ARQUITETURA DO WINDOWS
 
 A arquitetura do Windows é basicamente a engenharia por trás desse sistema operacional, organizando tudo e definindo exatamente como cada setor funciona, começando no **Hardware** (processador, memória, disco rígido, etc.), e passando pelo **Kernel**, que é basicamente um "cérebro" que comanda os sistemas, além dos **Drivers**, que são tradutores que ajudam o Windows a conversar com a máquina.
 
+***
+![Texto Alternativo](https://slideplayer.com.br/slide/362229/2/images/2/Arquitetura+Windows.jpg)
 ***
 
 # COMANDOS
